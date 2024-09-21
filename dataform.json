@@ -1,0 +1,8 @@
+{
+    "warehouse": "bigquery",
+    "defaultSchema": "dataform",
+    "assertionSchema": "dataform_assertions",
+    "defaultDatabase": "<gcp_project_id>",
+    "useRunCache": false,
+    "defaultLocation": "asia-southeast1"
+}

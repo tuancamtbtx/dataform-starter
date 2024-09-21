@@ -1,0 +1,3 @@
+const mask = (selector) => {
+    
+}
